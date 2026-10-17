@@ -16,9 +16,3 @@ How to run the Movie Ticket Booking System PHP Project
 6.Import movieticket_bookingdb.sql file (given inside the zip package in SQL file folder)
 
 7.Run the script http://localhost/movie_ticket_booking
-
-Credential for User Panel Email: john12@gmail.com Password: Test@123
-
-OR Register a new user.
-
-Admin for User Panel Email: admin@example.com Password: Test@123
